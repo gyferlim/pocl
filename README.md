@@ -1,3 +1,5 @@
+[Additional Read}
+See [ADDITIONAL.md](./ADDITIONAL.md) for more info.
 # Portable Computing Language (PoCL)
 
 PoCL is being developed towards an efficient implementation of the OpenCL
