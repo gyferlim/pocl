@@ -1,4 +1,7 @@
+This project is fork from https://github.com/pocl/pocl/
+
 # Following is added/modified to make full installation possible for non-technical know-how.
+
 A. git and clang-xx into part of dependencies packages.
 B. added sudo when root access is needed for installation.
 C. copy pocl.icd to appropriate folder for pocl to run.
