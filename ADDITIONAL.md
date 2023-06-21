@@ -37,7 +37,7 @@ You can check the script here :  [give-me-pocl.sh](./give-me-pocl.sh)
 ## For Jammy Jellfish 22.04
 Since LLVM 14 is available, will use version 14 in Jammy Jellyfish
 ```bash
-export LLVM_VERSION=12
+export LLVM_VERSION=14
 ```
 Rest of the steps are the same.
 
