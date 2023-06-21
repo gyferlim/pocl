@@ -14,7 +14,7 @@ sudo apt-get install -y python3-dev libpython3-dev build-essential ocl-icd-libop
     ocl-icd-opencl-dev libhwloc-dev zlib1g zlib1g-dev clinfo dialog apt-utils \
     libxml2-dev libclang-cpp${LLVM_VERSION}-dev libclang-cpp${LLVM_VERSION} \
     llvm-${LLVM_VERSION}-dev \
-    clang-12 git
+    clang-${LLVM_VERSION} git
 
 echo "Installation completed. Cloning POCL next. Pause for 5 seconds. Folder POCL will install on root director. Ctrl-C now if you wish to exit"
 sleep 5
