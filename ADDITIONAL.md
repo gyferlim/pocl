@@ -7,7 +7,7 @@ B. added sudo when root access is needed for installation.
 C. copy pocl.icd to appropriate folder for pocl to run.
 
 # Script
-A script is written to falicitate to expidite the whole POCL installtion in both Focal Fossa and Jammmy Jellyfish.
+A script is written to falicitate and expidite the whole POCL installtion in both Focal Fossa and Jammmy Jellyfish.
 ## To install on 20.04 Focal Fossa
 Getting the script, will install into folder POCL in root folder.
 ```bash
